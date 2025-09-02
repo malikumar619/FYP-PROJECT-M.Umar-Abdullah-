@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67389633743",
+    "project_id": "car-tracking-system-d8db6",
+    "storage_bucket": "car-tracking-system-d8db6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67389633743:android:d129264a2637ce4ad3f3ba",
+        "android_client_info": {
+          "package_name": "com.example.car_accident_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8H6yBIL9UX8QaQl6Myfef55y4TMasfhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
